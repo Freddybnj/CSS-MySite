@@ -1,0 +1,128 @@
+body
+{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  font-weight: normal;
+  line-height: 2;
+  margin-top: 25px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 25px;
+}
+hr{
+  margin: 25px auto;
+  width: 3%;
+  border: dotted 10px #a6dcef;
+  border-bottom: none;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  line-height: 2;
+  margin-top: 25px;
+  color: #40514e;
+  margin-left: auto;
+  margin-right: auto;
+}
+a{
+  padding: 25px;
+  color: #11999E;
+}
+.top-container{
+  background-color: #ddf3f5;
+  position: relative;
+  padding: 25px 0;
+}
+.middle-container{
+  margin-bottom: 0;
+  padding: 25px 0;
+}
+.bottom-container{
+  margin-bottom: 0;
+  padding: 25px 0;
+  background-color: #66BFBF;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.footer-link{
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.cloud-top{
+  position: absolute;
+  top: 75px;
+  right: 500px;
+}
+.cloud-bottom{
+  position: absolute;
+  left: 500px;
+  bottom: 350px;
+}
+.profilepic {
+  margin-top: 50px;
+  height: 150PX;
+  width: 150PX;
+  border-radius: 100%;
+}
+.skill-img1{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 25px;
+}
+.skill-img2{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 25px;
+}
+.normal-h2{
+  text-decoration: normal;
+}
+.skill-row{
+  width: 30%;
+  margin: 50px auto 100px auto;
+}
+.Left{
+  text-align: left;
+}
+.bottom-p{
+  width: 30%;
+  margin-bottom: 50px;
+}
+.btn{
+  text-decoration: none;
+  border: solid 1px #0a97b0;
+  padding: 25px;
+  background-color: #0fabbc;
+  color: #EAF6F6;
+  border-radius: 97%;
+}
+.btn:hover{
+  background-color: #12cad6;
+}
+.contact-me{
+  margin-bottom: 25px;
+}
